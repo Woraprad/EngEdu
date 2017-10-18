@@ -17,6 +17,7 @@ namespace EngEdu
             Console.WriteLine("Year 2561 semester 1, I lean to OOAD");
             Console.WriteLine("Year 2561 semester 2, I lean to Industrial Training");
             Console.WriteLine("Year 2562 semester 1, I lean to be teacher");
+            Console.WriteLine("Year 2562 semester 2, I lean to Project");
         }
     }
 }
